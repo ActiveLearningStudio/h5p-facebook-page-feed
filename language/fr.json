@@ -1,0 +1,49 @@
+{
+  "semantics": [
+    {
+      "label": "URL de la page Facebook",
+      "default": "https://www.facebook.com/h5ptechnology",
+      "description": "URL de la page Facebook"
+    },
+    {
+      "label": "Jeu de couleur de la boîte",
+      "options": [
+        {
+          "label": "Éclairé"
+        },
+        {
+          "label": "Sombre"
+        }
+      ],
+      "description": "Détermine quel jeu de couleur utiliser"
+    },
+    {
+      "label": "Seulement ceux des amis",
+      "description": "Montrer tous les posts ou seulement cex des amis"
+    },
+    {
+      "label": "Montrer l'entête",
+      "description": "Montrer l'entête ou non"
+    },
+    {
+      "label": "Montrer les bordures",
+      "description": "Montrer les bordures ou non"
+    },
+    {
+      "label": "Montrer les photos de profil",
+      "description": "Montrer les photos de profil des gens qui aiment la page ou non."
+    },
+    {
+      "label": "Montrer le suivi de la page",
+      "description": "Montrer le suivi de la page ou non"
+    },
+    {
+      "label": "Hauteur",
+      "description": "Régler la hauteur du champ de suivi de la page Facebook"
+    },
+    {
+      "label": "Largeur",
+      "description": "Régler la largeur du champ de suivi de la page Facebook"
+    }
+  ]
+}
