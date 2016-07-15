@@ -39,12 +39,10 @@
     },
     {
       "label": "Hauteur",
-      "default": "600",
       "description": "Régler la hauteur de la boîte Facebook"
     },
     {
       "label": "Largeur",
-      "default": "500",
       "description": "Régler la largeur de la boîte Facebook"
     }
   ]
