@@ -12,17 +12,17 @@
     "type": "select",
     "default": "light",
     "options": [
-    {
-      "value": "light",
-      "label": "Light"
-    },
-    {
-      "value": "dark",
-      "label": "Dark"
-    }
-  ],
+      {
+        "value": "light",
+        "label": "Light"
+      },
+      {
+        "value": "dark",
+        "label": "Dark"
+      }
+    ],
     "description": "Determine which color scheme to use"
-  }, 
+  },
   {
     "name": "fbForceWall",
     "type": "boolean",
@@ -58,18 +58,18 @@
     "description": "specifies whether or not the Stream from the Page is visible",
     "default": true
   },
-    {
+  {
     "label": "Height",
     "name": "fbHeight",
     "type": "text",
-    "default": "100%",
+    "default": "500",
     "description": "Set Height of the Faceook Page Feed"
   },
   {
     "label": "Width",
     "name": "fbWidth",
     "type": "text",
-    "default": "100%",
+    "default": "338",
     "description": "Set Width of the Facebook Page Feed"
   }
 ]
