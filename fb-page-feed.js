@@ -14,11 +14,11 @@ H5P.FacebookPageFeed = (function ($) {
       fbColorScheme: 'light',
       fbForceWall: false,
       fbHeader: true,
-      fbHeight: '100%',
+      fbHeight: '500',
       fbShowBorder: true,
       fbShowFaces: true,
       fbStream: true,
-      fbWidth: '100%'
+      fbWidth: '338'
     }, options);
     // Keep provided id.
     this.id = id;

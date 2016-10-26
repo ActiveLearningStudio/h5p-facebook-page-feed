@@ -1,0 +1,74 @@
+{
+  "semantics": [
+    {
+      "englishLabel": "URL to the Facebook Page",
+      "label": "URL til Facebook siden",
+      "englishDefault": "https://www.facebook.com/h5ptechnology",
+      "default": "https://www.facebook.com/h5ptechnology",
+      "englishDescription": "URL for the Facebook Page",
+      "description": "URL for Facebook-siden du ønsker å linke til."
+    },
+    {
+      "englishLabel": "Color Scheme on the Box",
+      "label": "Farge tema",
+      "options": [
+        {
+          "englishLabel": "Light",
+          "label": "Lyst"
+        },
+        {
+          "englishLabel": "Dark",
+          "label": "Mørkt"
+        }
+      ],
+      "englishDescription": "Determine which color scheme to use",
+      "description": "Velg hvilket farge tema du øsnker å bruke."
+    },
+    {
+      "englishLabel": "Only Check-ins",
+      "label": "Begrens til 'innsjekkede'",
+      "englishDescription": "Specifies whether the stream contains posts by the Page or just Check-ins from friends",
+      "description": "Alternativ for å velge å bare vise poster fra siden, eller kun 'insjekk' fra venner"
+    },
+    {
+      "englishLabel": "Show Header",
+      "label": "Vis overskrift",
+      "englishDescription": "Specifies whether the header should be visible or not",
+      "description": "Slå på for å vise overskrift"
+    },
+    {
+      "englishLabel": "Show Border",
+      "label": "Vis ramme",
+      "englishDescription": "Specifies whether or not Borders should be visible",
+      "description": "Slå på for å vise ramme"
+    },
+    {
+      "englishLabel": "Show Faces",
+      "label": "Vis ansikter",
+      "englishDescription": "Specifies whether to display profile photos of people who like the page.",
+      "description": "Slå på for å vise profil bildet av de som har likt siden"
+    },
+    {
+      "englishLabel": "Show Stream",
+      "label": "Vis strøm",
+      "englishDescription": "specifies whether or not the Stream from the Page is visible",
+      "description": "Slå på for å vise strømmen fra siden"
+    },
+    {
+      "englishLabel": "Height",
+      "label": "Høyde",
+      "englishDefault": "500",
+      "default": "500",
+      "englishDescription": "Set Height of the Faceook Page Feed",
+      "description": "Sett høyden som skal brukes"
+    },
+    {
+      "englishLabel": "Width",
+      "label": "Bredde",
+      "englishDefault": "338",
+      "default": "333",
+      "englishDescription": "Set Width of the Facebook Page Feed",
+      "description": "Sett bredden som skal brukes"
+    }
+  ]
+}
