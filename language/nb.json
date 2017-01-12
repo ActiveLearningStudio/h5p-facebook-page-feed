@@ -10,7 +10,7 @@
     },
     {
       "englishLabel": "Color Scheme on the Box",
-      "label": "Farge tema",
+      "label": "Fargetema",
       "options": [
         {
           "englishLabel": "Light",
@@ -22,7 +22,7 @@
         }
       ],
       "englishDescription": "Determine which color scheme to use",
-      "description": "Velg hvilket farge tema du øsnker å bruke."
+      "description": "Velg hvilket fargetema du ønsker å bruke."
     },
     {
       "englishLabel": "Only Check-ins",
