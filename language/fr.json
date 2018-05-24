@@ -2,7 +2,6 @@
   "semantics": [
     {
       "label": "URL de la page Facebook",
-      "default": "https://www.facebook.com/h5ptechnology",
       "description": "Saisir l'adresse de la page Facebook"
     },
     {
