@@ -1,48 +1,48 @@
 {
   "semantics": [
     {
-      "label": "URL Pagina Facebook",
-      "description": "URL di collegamento alla Pagina Facebook."
+      "label": "URL della Pagina Facebook",
+      "description": "URL di collegamento alla Pagina Facebook"
     },
     {
-      "label": "Schema Colore del Box",
+      "label": "Schema di colore del blocco (box)",
       "options": [
         {
-          "label": "Light"
+          "label": "Chiaro (light)"
         },
         {
-          "label": "Dark"
+          "label": "Scuro (dark)"
         }
       ],
-      "description": "Determina quale colore dello schema usare."
+      "description": "Stabilisci quale schema di colore usare"
     },
     {
-      "label": "Solo controlli",
-      "description": "Specifica se il flusso contiene i messaggi della Pagina o semplicemente i controlli da parte degli amici."
+      "label": "Solo controlli (check-in)",
+      "description": "Specifica se il flusso contiene i messaggi della Pagina o semplicemente il controllo da parte degli amici"
     },
     {
-      "label": "Mostra Testata",
-      "description": "Specifica se la testata � visibile o no."
+      "label": "Mostra intestestazione",
+      "description": "Specifica se l'intestestazione debba essere o meno visibile"
     },
     {
-      "label": "Mostra Bordo",
-      "description": "Specifica se i Bordi sono visibili o no."
+      "label": "Mostra bordo",
+      "description": "Specifica se i bordi debbano essere o meno visibili"
     },
     {
-      "label": "Mostra Foto Profilo",
-      "description": "Specifica se visualizzare le foto del profilo di persone a cui piace la pagina."
+      "label": "Mostra foto del profilo",
+      "description": "Specifica se mostrare le foto del profilo di persone a cui piace la pagina"
     },
     {
-      "label": "Mostra Flusso",
-      "description": "Specifica se il flusso dalla Pagina � visibile o no."
+      "label": "Mostra flusso",
+      "description": "Specifica se il flusso della Pagina debba essere o meno visibile"
     },
     {
       "label": "Altezza",
-      "description": "Imposta l'altezza della Pagina Feed Facebook."
+      "description": "Imposta l'altezza della pagina dei feed di Facebook"
     },
     {
       "label": "Larghezza",
-      "description": "Imposta la larghezza della Pagina Feed Facebook."
+      "description": "Imposta la larghezza della pagina dei feed di Facebook"
     }
   ]
 }
