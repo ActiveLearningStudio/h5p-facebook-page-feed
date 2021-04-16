@@ -21,8 +21,8 @@
       "description": "Especificar si el canal contiene publicaciones por la Página o solamente Revisiones de amigos"
     },
     {
-      "label": "Mostrar Header",
-      "description": "Especificar si el encabezado (header) debería o no ser visible"
+      "label": "Mostrar Encabezado",
+      "description": "Especificar si el encabezado debería o no ser visible"
     },
     {
       "label": "Mostrar Borde",
@@ -34,15 +34,15 @@
     },
     {
       "label": "Mostrar Canal",
-      "description": "Especificar si es visible o no el canal de la página"
+      "description": "Especificar si es visible o no el Canal de la Página"
     },
     {
       "label": "Altura",
-      "description": "Configurar Altura del Canal de Página de Faceook"
+      "description": "Configurar Altura del Canal de Página de Facebook"
     },
     {
       "label": "Ancho",
-      "description": "Configurar Ancho del Canal de Página de Faceook"
+      "description": "Configurar Ancho del Canal de Página de Facebook"
     }
   ]
 }
